@@ -11,8 +11,8 @@ _Presentado por [Pilar Camargo Márquez](https://www.linkedin.com/in/pilarcamarg
 <br/>
 <br/>
 Usted quiere conocer cuál es la popularidad del presidente de Colombia en estos momentos a partir del análisis de percepción que podría hacer a través de las redes sociales y escoge particularmente trabajar con Twitter como su fuente de información. Debe entonces investigar cómo obtener el API de Twitter para poder obtener un data frame con por lo menos 500 tweets donde se mencione al presidente Iván Duque Márquez.
-
-##Fuentes de Consulta:
+<br/>
+## Fuentes de Consulta:
 - https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets.html
 - https://twython.readthedocs.io/en/latest/index.html
 - https://stackabuse.com/accessing-the-twitter-api-with-python/
