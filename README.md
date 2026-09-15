@@ -19,5 +19,3 @@ Usted quiere conocer cuál es la popularidad del presidente de Colombia en estos
 - [Get Tweet timelines](https://developer.twitter.com/en/docs/tweets/timelines/guides/working-with-timelines.html) 
 - [Twython search API with next_results (Stack Overflow)](https://stackoverflow.com/questions/19320197/twython-search-api-with-next-results) 
 - [How to split a string by using [] in Python (Stack Overflow)](https://stackoverflow.com/questions/514029/how-to-split-a-string-by-using-in-python)
-
-  Cualquier cosa
